@@ -1,0 +1,14 @@
+{
+  "name": "simple-token",
+  "version": "0.1.0",
+  "description": "simple token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ManuelMaciel",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.0.0"
+  }
+}
