@@ -1,7 +1,7 @@
 {
   "name": "simple-token",
   "version": "0.1.0",
-  "description": "simple token",
+  "description": "simple token with truffle and openzeppelin-solidity",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,6 @@
   "author": "ManuelMaciel",
   "license": "ISC",
   "dependencies": {
-    "openzeppelin-solidity": "^2.0.0"
+    "openzeppelin-solidity": "^4.4.0"
   }
 }
